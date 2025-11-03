@@ -3,11 +3,14 @@
   "resourceVersion": "1.6",
   "name": "Game 101",
   "resources": [
+    {"id":{"name":"spr_TeamRocket2","path":"sprites/spr_TeamRocket2/spr_TeamRocket2.yy",},"order":3,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":1,},
+    {"id":{"name":"obj_TeamRocket","path":"objects/obj_TeamRocket/obj_TeamRocket.yy",},"order":2,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":0,},
+    {"id":{"name":"spr_TeamRocket4","path":"sprites/spr_TeamRocket4/spr_TeamRocket4.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

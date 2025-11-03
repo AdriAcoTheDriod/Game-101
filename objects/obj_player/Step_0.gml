@@ -17,14 +17,14 @@ if (keyboard_check(vk_down)) y += 4;
 
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 
-if (mouse_check_button(mb_left))
-{
-	instance_create_layer(x, y, "bulletsLayer", obj_bullet);
-}
+//if (mouse_check_button(mb_left))
+//{
+//	instance_create_layer(x, y, "bulletsLayer", obj_bullet);
+//}
 
-if (mouse_check_button(mb_left)) && (cooldown < 1);
+if (mouse_check_button(mb_left)) && (cooldown < 1)
 {
 	instance_create_layer(x, y, "BulletsLayer", obj_bullet);
-		cooldown = 3;
+		cooldown = 10;
 }
 cooldown = cooldown - 1;
