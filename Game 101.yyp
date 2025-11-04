@@ -3,6 +3,8 @@
   "resourceVersion": "1.6",
   "name": "Game 101",
   "resources": [
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":5,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"spr_TeamRocket2","path":"sprites/spr_TeamRocket2/spr_TeamRocket2.yy",},"order":3,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":2,},
